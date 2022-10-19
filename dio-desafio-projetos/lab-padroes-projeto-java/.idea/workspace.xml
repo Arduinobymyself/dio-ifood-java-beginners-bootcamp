@@ -16,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,18 +35,33 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ABMS-Telecom/Documents/GitHub/dio-ifood-java-beginners-bootcamp/dio-desafio-projetos/lab-padroes-projeto-java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.one.dio.gof.facade.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.dio.gof.strategy.Main" />
       <module name="lab-padroes-projeto-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="one.dio.gof.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one.dio.gof.facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.dio.gof.facade.Main" />
+      <module name="lab-padroes-projeto-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.dio.gof.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.one.dio.gof.facade.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.one.dio.gof.singleton.Main" />
       </list>
@@ -113,6 +129,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="&quot;subindo arquivos de projeto para os desafios dio bootcamp ifood java beginners&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;subindo arquivos de projeto para os desafios dio bootcamp ifood java beginners&quot;" />
   </component>
